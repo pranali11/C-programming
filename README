@@ -1,0 +1,15 @@
+This is trial code, to practice github and git commands for version control 
+steps for saving your job on github
+
+1. Create a respository on github account for example C-programming
+2. Copy the link 
+3. go to the folder where your code resides
+4. intilize git - git init  , This will create an empty git directory 
+5. using add command add the codes or items you need to commit - git add <file_names>
+6. commit on your first version - git commit -m "first commit"
+7. now you need to push the work before we need to specify where- 
+git remote add github <URL of the respository you created>
+8.git push -m origin
+9. It will ask for username and password of the github.
+
+
